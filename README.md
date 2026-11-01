@@ -1,7 +1,6 @@
 # 🛒 BigBasket Products Analysis | Python & Exploratory Data Analysis
 
 ## 📌 Project Overview
-
 This project focuses on analyzing BigBasket product data using Python. The objective is to understand product distribution, brand performance, pricing patterns, discounts, customer ratings, and data quality.
 
 The analysis includes data cleaning, Exploratory Data Analysis (EDA), statistical analysis, outlier detection, and data visualization to generate meaningful business insights.
